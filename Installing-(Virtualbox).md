@@ -1,6 +1,6 @@
 1. Create a new virtual machine.
   * VM Type: **Other**, VM Version: **Other/Unknown (64-bit)**.
-  * RAM: At least **512MB**.
+  * RAM: **1GB or more** recommended. At least **512MB**.
   * Hard disk: At least **512MB**.
 2. Open the Settings menu for the virtual machine.
   * In the **Storage** section, add a new AHCI storage controller.
