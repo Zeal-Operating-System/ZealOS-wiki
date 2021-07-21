@@ -7,6 +7,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Enter|Right-Click|
 |F1|Help|
 |Ctrl-M|Personal Menu|
+|Ctrl-Shift-M|Personal Notes|
 |Esc|Save & Exit|
 |Shift-Esc|Abort & Exit|
 |Ctrl-Alt-X|Kill Window|
