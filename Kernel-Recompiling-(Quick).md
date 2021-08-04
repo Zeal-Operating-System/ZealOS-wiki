@@ -20,4 +20,4 @@ This will recompile the Kernel with the following settings:
 
 **- Having more than one HDD can result in `K.CC` setting the wrong boot SATA port. Make sure your ZealOS drive has a lower SATA port number than your other drives.**
 
-**- If you have ZealOS installed onto a drive with other OS partitions and ZealOS is not the first partition, it will misconfigure whichever drive partition is first.**
+**- If you have ZealOS installed onto a drive with other OS partitions and ZealOS is not the first partition, `K.CC` will misconfigure whichever drive partition is first.**
