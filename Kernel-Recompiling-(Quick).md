@@ -9,7 +9,6 @@ This will recompile the Kernel with the following settings:
 * Mounted Drives:
   * `C` at SATA port of first-seen ATA drive.
     * Partition: All
-  * `T` at SATA port of first-seen ATAPI drive.
 * Resolution: 1024x768
 * Disk Cache Size: Default
 * Home Directory: `::/Home`
