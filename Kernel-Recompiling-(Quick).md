@@ -7,7 +7,7 @@
 This will recompile the Kernel with the following settings:
 * Boot Drive: `C`
 * Mounted Drives:
-  * `C` at SATA port of first-seen ATA drive.
+  * `C` at SATA port of the first-seen ATA drive at compile time.
     * Partition: All
 * Resolution: 1024x768
 * Disk Cache Size: Default
