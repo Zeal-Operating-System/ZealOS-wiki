@@ -1,9 +1,9 @@
-# Instructions
+## Instructions
 1. Run the `K.CC` file in the Home/ directory.
 2. Type `N` when asked if it was successful. (If you type `Y`, it will attempt to build a Distro ISO.)
 3. Reboot.
 
-# Settings
+## Settings
 This will recompile the Kernel with the following settings:
 * Boot Drive: `C`
 * Mounted Drives:
@@ -13,7 +13,7 @@ This will recompile the Kernel with the following settings:
 * Disk Cache Size: Default
 * Home Directory: `::/Home`
 
-# Warnings
+## Warnings
 
 **- Running `K.CC` while booted into a partition that isn't `C` will misconfigure the partition.**
 
