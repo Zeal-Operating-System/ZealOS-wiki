@@ -1,4 +1,4 @@
-# Common Keybindings
+## Common Keybindings
 To see the full keybinding list, run `KeyMap;` in a terminal window.
 
 |Key|Description|
