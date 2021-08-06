@@ -1,4 +1,4 @@
-# Instructions
+## Instructions
 1. Type `BootHDIns;` at the command line and press Enter.
 2. Type the letter of the drive you want to use as the Boot Drive.
     * You can press Enter to use the current drive, which is usually ideal.
