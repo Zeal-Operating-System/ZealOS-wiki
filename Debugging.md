@@ -1,11 +1,11 @@
-# Debugger
+## Debugger
 The system Debugger can be invoked by calling the `Debug` function, or is entered during faults. It is a command line interface, just like the rest of the OS. You can enter `Help;` at the debug command line to get a summary of some helpful functions.
 
 When editing files in the Debugger, it uses EdLite instead of Ed. Both editors work the same, and have the same keybindings.
 
 The debugger pauses code execution, leaving registers, stack, and compiler information as-is. You can modify all of these from the debugger. The current register state gets printed to the top right corner of the screen.
 
-# Debugging Functions
+## Debugging Functions
 There are a wide variety of debugging functions. Depending on what issues you're facing, certain functions may be more useful than others. They can be used everywhere, not just when in Debug mode. This is not a full list, just some more common debugging functions.
 
 * `Man` - Jumps to the source code of a function. Example: `Man("KMain");`
