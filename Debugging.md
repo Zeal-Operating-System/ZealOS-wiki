@@ -1,5 +1,5 @@
 ## Debugger
-The system Debugger can be invoked by calling the `Debug` function, or is entered during faults. It is a command line interface, just like the rest of the OS. You can enter `Help;` at the debug command line to get a summary of some helpful functions.
+The system Debugger can be invoked by calling the `Debug` function, pressing `Ctrl-Alt-D`, or is entered during faults. It is a command line interface, just like the rest of the OS. You can enter `Help;` at the debug command line to get a summary of some helpful functions.
 
 When editing files in the Debugger, it uses EdLite instead of Ed. Both editors work the same, and have the same keybindings.
 
