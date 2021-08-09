@@ -5,6 +5,8 @@ When editing files in the Debugger, it uses EdLite instead of Ed. Both editors w
 
 The debugger pauses code execution, leaving registers, stack, and compiler information as-is. You can modify all of these from the debugger. The current register state gets printed to the top right corner of the screen.
 
+See [Doc/DebugOverview.DD](https://zeal-operating-system.github.io/ZealOS/Doc/DebugOverview.DD.html) for more advanced info.
+
 ## Debugging Functions
 There are a wide variety of debugging functions. Depending on what issues you're facing, certain functions may be more useful than others. They can be used everywhere, not only when in Debug mode. This is not a full list, just some more common debugging functions.
 
