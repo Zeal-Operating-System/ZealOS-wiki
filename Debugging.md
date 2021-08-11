@@ -11,7 +11,7 @@ See [Doc/DebugOverview.DD](https://zeal-operating-system.github.io/ZealOS/Doc/De
 There are a wide variety of debugging functions. Depending on what issues you're facing, certain functions may be more useful than others. They can be used everywhere, not only when in Debug mode. This is not a full list, just some more common debugging functions.
 
 * `Man` - Jumps to the source code of a function. Example: `Man("KMain");`
-* `E` - Jumps to source code of a function. Argument is usually formatted as a function address with offset. Example: `E(&Lex+0x0C11);`
+* `E` - Jumps to source code of a function, arg is function address with offset. Example: `E(&Lex+0x0C11);`
 * `Fix` - Jumps to line number & file where error occurred. 
 * `CallerRep` - Report calling routines.
 * `StackRep` - Report what's on the stack.
