@@ -27,4 +27,5 @@ There are a wide variety of debugging functions. Depending on what issues you're
 * `Exit` - Kill current task.
 
 ## Troubleshooting
-* To stop a program during execution, add a call to `Debug;` to enter the debugger, or `throw;` to halt program execution. `throw` can take an integer error code as an argument: `throw(-1);` or `throw('error');` for example.
+* To pause a program during execution, add a call to `Debug;` to enter the debugger.
+* To halt program execution, call `throw;`. You can pass integer error codes: `throw(-1);` or `throw('error');` for example. `throw` is preferable to `Exit`, since using `Exit;` to halt a program will also kill the current task.
