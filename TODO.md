@@ -1,11 +1,12 @@
 # TODO
 
 ## Simple
-* Reimplement TempleOS file decompression. (no compression)
+* Reimplement TempleOS file decompression. (No compression.)
 * Add ZealOS-specific section to PersonalMenu.
 * Optimize RawPutChar.
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
+* Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size.)
 
 ## Difficult
 * Improve MultiCore processor initialization process.
