@@ -1,5 +1,5 @@
 ## Debugger
-The system Debugger can be invoked by calling the `Debug` function, pressing `Ctrl-Alt-D`, or is entered during faults. It is a command line interface, just like the rest of the OS. You can enter `Help;` at the debug command line to get a summary of some helpful functions.
+The system Debugger can be invoked by calling `Debug;`, pressing `Ctrl-Alt-D`, or is entered during faults. It is a command line interface, just like the rest of the OS. You can enter `Help;` at the debug command line to get a summary of some helpful functions.
 
 When editing files in the Debugger, it uses EdLite instead of Ed. Both editors work the same, and have the same keybindings.
 
@@ -25,3 +25,6 @@ There are a wide variety of debugging functions. Depending on what issues you're
 * `G` - Resume execution.
 * `G2` - Clear all breakpoints, flush screen framebuffer, focus window, resume execution.
 * `Exit` - Kill current task.
+
+## Troubleshooting
+* To stop a program during execution, add a call to `Debug;` to enter the debugger, or `throw;` to halt program execution. `throw` can take an integer error code as an argument: `throw(-1);` or `throw('error');` for example.
