@@ -7,3 +7,4 @@
 5. Type `Y` when asked if you want to install onto a hard drive.
 6. Type `I` when asked if you want to upgrade or create a new install.
 7. After installation is complete, type `Y` to reboot. The disc will auto-eject.
+8. On subsequent launches of the virtual machine, omit the `-cdrom` argument and parameter.
