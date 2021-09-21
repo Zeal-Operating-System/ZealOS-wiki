@@ -1,5 +1,12 @@
 # TODO
 
+## Simple
+* Reimplement TempleOS file decompression. (no compression)
+* Add ZealOS-specific section to PersonalMenu.
+* Optimize RawPutChar.
+* Fix sky/horizon height in Varoom and ZoneOut.
+* Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
+
 ## Difficult
 * Improve MultiCore processor initialization process.
 * Fix `GrZoom`.
@@ -18,10 +25,5 @@
 * Add right-click macro to Dir directory macros, similar to file right-click popup menu.
 * Regularly generate Lite and UltraLite ISOs.
 * Improve build process and version control system.
-
-## Simple
-* Reimplement TempleOS file decompression. (no compression)
-* Add ZealOS-specific section to PersonalMenu.
-* Optimize RawPutChar.
-* Fix sky/horizon height in Varoom and ZoneOut.
-* Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
+* Clean up AHCI code.
+* Clean up Networking code.
