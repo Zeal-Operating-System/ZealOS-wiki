@@ -27,5 +27,6 @@
 * Add right-click macro to Dir directory macros, similar to file right-click popup menu.
 * Regularly generate Lite and UltraLite ISOs.
 * Improve build process and version control system.
+* Fix partially-offscreen sprite flickering.
 * Clean up AHCI code.
 * Clean up Networking code.
