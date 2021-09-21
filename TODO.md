@@ -21,6 +21,7 @@
 * Implement network loopback operation.
 * Fix AcctExample code.
 * Make car tires in Varoom round, or implement sprite interpolation to make tires rotate.
+* Fix Chess king vs. king stalemate softlock.
 * Add and port Terry's HDAudio driver from supplemental disc, and alec's AC97 driver from Erythros.
 * Fix `Uf` opcode report spacing.
 * Fix how command line handles Insert mode.
