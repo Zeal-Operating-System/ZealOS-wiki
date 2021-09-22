@@ -19,6 +19,7 @@
 * Implement network file transfer.
 * Implement HTTP.
 * Implement network loopback operation.
+* Get E1000 driver into functional state.
 * Fix AcctExample code.
 * Make car tires in Varoom round, or implement sprite interpolation to make tires rotate.
 * Fix Chess king vs. king stalemate softlock.
