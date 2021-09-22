@@ -11,7 +11,6 @@
 
 ## Difficult
 * Improve MultiCore processor initialization process.
-* Fix `GrZoom`.
 * Fix `GRScreenCaptureWrite`, `GRScreenCaptureRead`, and `DCScreenCapture`.
 * Fix certain screen resolutions distorting.
 * Add Extrude to 3D Sprite Mesh Editor.
