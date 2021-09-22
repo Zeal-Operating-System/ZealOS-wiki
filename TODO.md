@@ -7,6 +7,7 @@
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size.)
+* Improve ToTheFront game mechanics explanation.
 
 ## Difficult
 * Improve MultiCore processor initialization process.
@@ -22,6 +23,7 @@
 * Fix AcctExample code.
 * Make car tires in Varoom round, or implement sprite interpolation to make tires rotate.
 * Fix Chess king vs. king stalemate softlock.
+* Scale ToTheFront sprites and map to fit screen so sprites are more visible at high screen resolutions.
 * Add and port Terry's HDAudio driver from supplemental disc, and alec's AC97 driver from Erythros.
 * Fix `Uf` opcode report spacing.
 * Fix how command line handles Insert mode.
