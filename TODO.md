@@ -16,6 +16,7 @@
 * Add Extrude to 3D Sprite Mesh Editor.
 * Implement SLOC `LineRep`.
 * Fix `ATAPIRBlks` bottleneck.
+* Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`.
 * Implement network file transfer.
 * Implement HTTP.
 * Implement network loopback operation.
