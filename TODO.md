@@ -7,7 +7,7 @@
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Move `docs/` to another repo.
-* Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size.)
+* Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size at the cost of more Data Heap allocation.)
 * Improve ToTheFront game mechanics explanation.
 
 ## Difficult
