@@ -6,6 +6,7 @@
 * Optimize RawPutChar.
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
+* Move `docs/` to another repo.
 * Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size.)
 * Improve ToTheFront game mechanics explanation.
 
