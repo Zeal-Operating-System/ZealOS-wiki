@@ -14,7 +14,7 @@
 * Optimize RawPutChar.
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Implement a `WinTileGrid`.
-* Flush screen cache on Palette change.
+* Flush framebuffer/screen cache on CTask Palette change. (Bug when running a game or App, in other task changing Palette, then exiting app.)
 * Reimplement TempleOS file decompression. (No compression.)
 
 ## Difficult
