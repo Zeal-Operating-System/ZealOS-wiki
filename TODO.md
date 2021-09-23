@@ -14,6 +14,7 @@
 * Optimize RawPutChar.
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Implement a `WinTileGrid`.
+* Flush screen cache on Palette change.
 * Reimplement TempleOS file decompression. (No compression.)
 
 ## Difficult
