@@ -4,10 +4,7 @@
 * Add ZealOS-specific section to PersonalMenu.
 * Improve ToTheFront game mechanics explanation.
 * Update `Doc/AboutZealOS.DD`.
-* Fix graphics hang during `PCIRep;` on bare-metal.
 * Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size at the cost of more Data Heap allocation.)
-* Fix `Uf` opcode report spacing.
-* Fix `MemBIOSRep` report spacing.
 * Print data column title header strings in the various Rep functions, add human-readable values.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Move `docs/` to another repo.
