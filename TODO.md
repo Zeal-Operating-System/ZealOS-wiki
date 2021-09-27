@@ -7,7 +7,7 @@
 * Update `Doc/AboutZealOS.DD`.
 * Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size at the cost of more Data Heap allocation.)
 * Print data column title header strings in the various Rep functions, add human-readable values.
-* Update/fix Standard Font character bitmaps after character 255.
+* Update/fix Standard Font character bitmaps after character 127.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Make `IntEntryFree` unset the IRQ vector.
 * Update all `IntEntrySet` to use new `IntEntryAlloc` system.
