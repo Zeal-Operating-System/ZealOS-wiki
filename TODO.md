@@ -1,6 +1,7 @@
 # TODO
 
 ## Simple
+* Rename all `abs_addres` to `abs_address`.
 * Add ZealOS-specific section to PersonalMenu.
 * Improve ToTheFront game mechanics explanation.
 * Update `Doc/AboutZealOS.DD`.
