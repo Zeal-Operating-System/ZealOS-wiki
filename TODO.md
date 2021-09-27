@@ -38,11 +38,11 @@
 * Fix `ATAPIRBlks` bottleneck.
 * Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`. (Use MultiCore to distribute graphics computation?)
 * Implement SLOC `LineRep`.
-* Fix AcctExample code.
+* Fix `Demo/AcctExample/` code.
 * Regularly generate Lite and UltraLite ISOs.
 * Clean up AHCI code.
 * Clean up Networking code.
-* Implement network loopback operation.
+* Implement Networking loopback operation.
 * Clean up Compiler code, add more documentation.
 * Clean up Kernel code, improve organization, remove bloat, add more documentation.
 * Improve build process and version control system.
