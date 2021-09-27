@@ -30,7 +30,7 @@
 * Fix partially-offscreen sprite flickering.
 * Fix Chess king vs. king stalemate softlock.
 * Fix how command line handles Insert mode.
-* Add right-click macro to Dir directory macros, similar to file right-click popup menu.
+* Add right-click macro to `Dir` directory macros, similar to file right-click popup menu.
 * Add and port Terry's HDAudio driver from supplemental disc, and alec's AC97 driver from Erythros.
 * Fix certain screen resolutions distorting.
 * Scale ToTheFront sprites and map to fit screen so sprites are more visible at high screen resolutions.
