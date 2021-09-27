@@ -10,7 +10,7 @@
 * Update/fix Standard Font character bitmaps after character 255.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Make `IntEntryFree` unset the IRQ vector.
-* Update all `IntEntrySet` in codebase to use new `IntEntryAlloc` system.
+* Update all `IntEntrySet` to use new `IntEntryAlloc` system.
 * Move `docs/` to another repo.
 * Optimize RawPutChar.
 * Fix sky/horizon height in Varoom and ZoneOut.
