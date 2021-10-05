@@ -38,6 +38,7 @@
 * Make car tires in Varoom round, or implement sprite interpolation to make tires rotate.
 * Fix `ATAPIRBlks` bottleneck.
 * Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`. (Use MultiCore to distribute graphics computation?)
+* Fix bug where Pause/Break key scancode is converted to Ctrl-NumLock.
 * Implement SLOC `LineRep`.
 * Fix `Demo/AcctExample/` code.
 * Regularly generate Lite and UltraLite ISOs.
