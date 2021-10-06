@@ -2,6 +2,7 @@
 
 ## Simple
 * Rename all `abs_addres` to `abs_address`.
+* Rename all `var` to `variable` and `reg` to `register` in documentation/comments.
 * Add ZealOS-specific section to Personal Menu.
 * Improve ToTheFront game mechanics explanation.
 * Update `Doc/AboutZealOS.DD`.
