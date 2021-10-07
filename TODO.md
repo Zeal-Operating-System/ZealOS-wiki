@@ -1,13 +1,10 @@
 # TODO
 
 ## Simple
-* Rename all `abs_addres` to `abs_address`.
-* Rename all `var` to `variable` and `reg` to `register` in documentation/comments.
 * Add ZealOS-specific section to Personal Menu.
 * Improve ToTheFront game mechanics explanation.
 * Update `Doc/AboutZealOS.DD`.
 * Update or remove `Downloads/Linux/` files and directory.
-* Change `ICClassPut` error infinite-loop to instead bring up debugger.
 * Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size at the cost of more Data Heap allocation.)
 * Print data column title header strings in the various Rep functions, add human-readable values.
 * Update/fix Standard Font character bitmaps after character 127.
