@@ -1,15 +1,10 @@
 # TODO
 
 ## Simple
-* Add ZealOS-specific section to Personal Menu.
 * Improve ToTheFront game mechanics explanation.
-* Update `Doc/AboutZealOS.DD`.
-* Update or remove `Downloads/Linux/` files and directory.
 * Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size at the cost of more Data Heap allocation.)
 * Print data column title header strings in the various Rep functions, add human-readable values.
-* Update/fix Standard Font character bitmaps after character 127.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
-* Make `IntEntryFree` unset the IRQ vector.
 * Update all `IntEntrySet` to use new `IntEntryAlloc` system.
 * Move `docs/` to another repo.
 * Optimize `RawPutChar`.
