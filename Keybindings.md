@@ -35,6 +35,8 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Ctrl-Alt-D|Debugger|
 |Ctrl-Alt-M|Toggle Mute|
 |Ctrl-Alt-T|Open Terminal|
+|Ctrl-Alt-Z|Zoom In|
+|Shift-Ctrl-Alt-Z|Zoom Out|
 |Shift-Alt-Delete|RAM Reboot|
 |Ctrl-Alt-Delete|Reboot|
 |Double Left-Click|Save & Exit|
