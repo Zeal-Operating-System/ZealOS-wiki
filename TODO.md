@@ -1,15 +1,12 @@
 # TODO
 
 ## Simple
-* Test if `MEM_EXTRA_HASH2_PAGS` can be set to 1, instead of 2. (Would double available stack size at the cost of more Data Heap allocation.)
-* Print data column title header strings in the various Rep functions, add human-readable values.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Update all `IntEntrySet` to use new `IntEntryAlloc` system.
 * Move `docs/` to another repo.
 * Optimize `RawPutChar`.
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Implement a `WinTileGrid`.
-* Flush framebuffer/screen cache on `CTask` Palette change. (Bug when running a game or App, in other task changing Palette, then exiting app.)
 * Reimplement TempleOS file decompression. (No compression.)
 
 ## Difficult
