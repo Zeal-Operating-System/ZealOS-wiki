@@ -36,4 +36,3 @@
 * Implement Networking loopback operation.
 * Clean up Compiler code, add more documentation.
 * Clean up Kernel code, improve organization, remove bloat, add more documentation.
-* Improve build process and version control system.
