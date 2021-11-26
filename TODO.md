@@ -15,6 +15,7 @@
 * Implement network file transfer.
 * Improve MultiCore processor initialization process.
 * Fix `GRScreenCaptureWrite`, `GRScreenCaptureRead`, and `DCScreenCapture`.
+  - reference to `gr.screen_image` needs to be replaced
 * Fix MiniGrLib.
 * Add Extrude to 3D Sprite Mesh Editor.
 * Fix partially-offscreen sprite flickering.
