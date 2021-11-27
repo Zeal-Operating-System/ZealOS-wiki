@@ -2,13 +2,8 @@
 1. Make sure you have the commands: `qemu-img`, `qemu-nbd`, `qemu-system-x86_64`, `partprobe`, and `modprobe`.
 
 If you do not have these commands and are on a Linux system like Ubuntu, try installing these packages:
-* **qemu-utils**
-* **qemu-system-x86**
-* **qemu-system-common**
-* **qemu-system-data**
-* **qemu-system-gui**
-* **parted**
-* **kmod**
+
+`sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod`
 
 2. Enter the `build/` folder, and run `build_iso.sh`.
 
