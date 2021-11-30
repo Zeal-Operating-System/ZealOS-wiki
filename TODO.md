@@ -1,6 +1,7 @@
 # TODO
 
 ## Simple
+* Fix Hello World demo.
 * Fix Gopher client long filename truncation.
 * Fix `Mount2` allowing skip HDD SATA port number entry.
 * Improve `BlkDevRep` demo and integrate into `DiskBlkDev.CC`.
