@@ -16,7 +16,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Alt-A|Open AutoComplete|
 |Windows Key|Pull-Down Menu|
 |F5|Compile|
-|Alt-Backspace|Undo|
+|**Alt-Backspace**|**Undo**|
 |Ctrl-S|Save|
 |Ctrl-A|Save As|
 |Ctrl-D|File Manager|
