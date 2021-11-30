@@ -20,6 +20,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Ctrl-A|Save As|
 |Ctrl-D|File Manager|
 |Ctrl-F|Find|
+|Ctrl-G|Goto Line|
 |Alt-M|Maximize Window|
 |Alt-H|Horizontal Window Tiling|
 |Alt-V|Vertical Window Tiling|
