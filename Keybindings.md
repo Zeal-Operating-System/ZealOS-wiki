@@ -16,6 +16,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Alt-A|Open AutoComplete|
 |Windows Key|Pull-Down Menu|
 |F5|Compile|
+|Alt-Backspace|Undo|
 |Ctrl-S|Save|
 |Ctrl-A|Save As|
 |Ctrl-D|File Manager|
@@ -25,7 +26,6 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Alt-H|Horizontal Window Tiling|
 |Alt-V|Vertical Window Tiling|
 |Ctrl-B|Window Border|
-|Alt-Backspace|Undo|
 |Ctrl-L|Text Menu|
 |Ctrl-R|Sprite Menu|
 |F7|God Word|
