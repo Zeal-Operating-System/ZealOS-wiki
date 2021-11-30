@@ -12,6 +12,7 @@
 * Implement a `WinTileGrid`.
 * Reimplement TempleOS file decompression. (No compression.)
 * Implement `Ping` network function.
+* Implement Install Unit logic into AHCI.
 
 ## Difficult
 * Get E1000 driver into functional state.
