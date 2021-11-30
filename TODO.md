@@ -2,6 +2,7 @@
 
 ## Simple
 * Fix `Mount2` allowing skip HDD SATA port number entry.
+* Improve `BlkDevRep` demo and integrate into `DiskBlkDev.CC`.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Update all `IntEntrySet` to use new `IntEntryAlloc` system.
 * Move `docs/` to another repo.
