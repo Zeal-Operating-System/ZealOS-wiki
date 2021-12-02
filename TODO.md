@@ -1,6 +1,7 @@
 # TODO
 
 ## Simple
+* Fix bug where pressing F5 from Ed window in a subdirectory file reloads network stack `Run.CC` by renaming network stack `Run.CC` to `Start.CC`.
 * Fix Gopher client functionality when booted from CD/DVD drive.
 * Print drives dynamically in `GrDir`.
 * Fix Gopher client long filename truncation.
