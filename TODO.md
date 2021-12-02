@@ -1,6 +1,7 @@
 # TODO
 
 ## Simple
+* Fix Gopher client functionality when booted from CD/DVD drive.
 * Print drives dynamically in `GrDir`.
 * Fix Gopher client long filename truncation.
 * Fix `Mount2` allowing skip HDD SATA port number entry.
