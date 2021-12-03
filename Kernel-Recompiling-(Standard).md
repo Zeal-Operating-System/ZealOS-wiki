@@ -28,6 +28,7 @@ Mounting the C drive is usually the bare minimum. The mount process varies depen
       * `2*256*1024` (128 MB)
       * `0x20000` (64 MB)
       * `0x10000` (32 MB)
+      * `65536` (32 MB)
 * ISO File-Read Drive:
   1. When asked for a filename, type the absolute file path to an ISO.C file and press Enter.
 * ISO File-Write Drive:
