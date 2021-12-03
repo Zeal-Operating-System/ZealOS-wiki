@@ -1,7 +1,7 @@
 ## Common Keybindings
 To see the full keybinding list, run `KeyMap;` in a terminal window.
 
-|Key|Description|
+|Keybinding|Description|
 |:-:|:-:|
 |Space|Left-Click|
 |Enter|Right-Click|
