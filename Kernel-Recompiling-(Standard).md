@@ -22,6 +22,7 @@ Mounting the C drive is usually the bare minimum. The mount process varies depen
 * RAM:
   1. When asked for the address of the RAM disk, press Enter to configure the kernel to MAlloc the RAM disk on boot.
   2. Type the number of 512 byte blocks you want the RAM disk to have, then press Enter. You can input it as decimal or hex, and/or an expression. Here are some examples:
+      * `2*3*1024*1024` (3 GB)
       * `0x200000` (1 GB)
       * `0x100000` (512 MB)
       * `0x20000` (64 MB)
