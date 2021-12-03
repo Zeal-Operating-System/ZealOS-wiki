@@ -25,6 +25,7 @@ Mounting the C drive is usually the bare minimum. The mount process varies depen
       * `2*3*1024*1024` (3 GB)
       * `0x200000` (1 GB)
       * `0x100000` (512 MB)
+      * `2*256*1024` (128 MB)
       * `0x20000` (64 MB)
       * `0x10000` (32 MB)
 * ISO File-Read Drive:
