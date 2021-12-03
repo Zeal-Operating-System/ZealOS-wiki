@@ -41,7 +41,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Shift-Ctrl-Alt-Z|Zoom Out|
 |Shift-Alt-Delete|RAM Reboot|
 |Ctrl-Alt-Delete|Reboot|
-|Ctrl-Left/Right Arrows|Goto Start/End of Line|
-|Ctrl-Up/Down Arrows|Goto Top/Bottom of Window|
+|Ctrl-\<Left/Right Arrows\>|Goto Start/End of Line|
+|Ctrl-\<Up/Down Arrows\>|Goto Top/Bottom of Window|
 |Double Left-Click|Save & Exit|
 |Double Right-Click|Abort & Exit|
