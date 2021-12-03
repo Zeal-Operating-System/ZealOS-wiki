@@ -14,6 +14,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Ctrl-Alt-N|Focus Next Window|
 |Shift-Alt-A|Close AutoComplete|
 |Alt-A|Open AutoComplete|
+|Ctrl-Shift-\<F1 through F12\>|AutoComplete Jump to Definition|
 |Windows Key|Pull-Down Menu|
 |F5|Compile|
 |**Alt-Backspace**|**Undo**|
