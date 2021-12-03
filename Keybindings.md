@@ -5,6 +5,9 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |:-:|:-:|
 |Space|Left-Click|
 |Enter|Right-Click|
+|Arrow Keys|Move Cursor|
+|Ctrl-\<Left/Right Arrows\>|Goto Start/End of Line|
+|Ctrl-\<Up/Down Arrows\>|Goto Top/Bottom of Document|
 |F1|Help|
 |Ctrl-M|Personal Menu|
 |Ctrl-Shift-M|Personal Notes|
@@ -41,7 +44,5 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Shift-Ctrl-Alt-Z|Zoom Out|
 |Shift-Alt-Delete|RAM Reboot|
 |Ctrl-Alt-Delete|Reboot|
-|Ctrl-\<Left/Right Arrows\>|Goto Start/End of Line|
-|Ctrl-\<Up/Down Arrows\>|Goto Top/Bottom of Document|
 |Double Left-Click|Save & Exit|
 |Double Right-Click|Abort & Exit|
