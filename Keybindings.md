@@ -15,6 +15,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Shift-Esc|Abort & Exit|
 |Ctrl-Alt-X|Kill Window|
 |Ctrl-Alt-N|Focus Next Window|
+|Ctrl-Alt-T|Open Terminal|
 |Shift-Alt-A|Close AutoComplete|
 |Alt-A|Open AutoComplete|
 |Ctrl-Shift-\<F1 through F12\>|AutoComplete Jump to Definition|
@@ -39,7 +40,6 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Ctrl-Alt-C|Break|
 |Ctrl-Alt-D|Debugger|
 |Ctrl-Alt-M|Toggle Mute|
-|Ctrl-Alt-T|Open Terminal|
 |Ctrl-Alt-Z|Zoom In|
 |Shift-Ctrl-Alt-Z|Zoom Out|
 |Shift-Alt-Delete|RAM Reboot|
