@@ -5,16 +5,13 @@
 * Fix Gopher client functionality when booted from CD/DVD drive.
 * Print drives dynamically in `GrDir`.
 * Fix Gopher client long filename truncation.
-* Improve `BlkDevRep` demo and integrate into `DiskBlkDev.CC`.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
-* Update all `IntEntrySet` to use new `IntEntryAlloc` system.
 * Move `docs/` to another repo.
 * Optimize `RawPutChar`.
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Implement a `WinTileGrid`.
 * Reimplement TempleOS file decompression. (No compression.)
 * Implement `Ping` network function.
-* Implement Install Unit logic into AHCI.
 
 ## Difficult
 * Get E1000 driver into functional state.
