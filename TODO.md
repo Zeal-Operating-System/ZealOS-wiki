@@ -22,6 +22,7 @@
   - reference to `gr.screen_image` needs to be replaced
 * Fix MiniGrLib.
 * Add Extrude to 3D Sprite Mesh Editor.
+* Fix function local variable array list declaration with initialization Compiler bug.
 * Fix partially-offscreen sprite flickering.
 * Fix Chess king vs. king stalemate softlock.
 * Fix how command line handles Insert mode.
