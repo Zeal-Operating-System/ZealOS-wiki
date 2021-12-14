@@ -2,7 +2,6 @@
 
 ## Simple
 * Review RFC 793, fix RST ACK loop spam. (Bug spotted using QEMU)
-* Fix Gopher client functionality when booted from CD/DVD drive.
 * Fix Gopher client long filename truncation.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Move `docs/` to an organization root repo. (zeal-operating-system.github.io)
@@ -36,6 +35,8 @@
 * Fix bug where Pause/Break key scancode is converted to Ctrl-NumLock.
 * Implement SLOC `LineRep`.
 * Fix `Demo/AcctExample/` code.
+* Fix Gopher client functionality when booted from CD/DVD drive.
+  - attempted using RAM drive for file downloads during LiveCD boot, but got errors during the drive offset checks in `BlkWrite`.
 * Regularly generate Lite and UltraLite ISOs.
 * Clean up AHCI code.
 * Clean up Networking code.
