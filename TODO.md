@@ -36,7 +36,7 @@
 * Implement SLOC `LineRep`.
 * Fix `Demo/AcctExample/` code.
 * Fix Gopher client functionality when booted from CD/DVD drive.
-  - attempted using RAM drive for file downloads during LiveCD boot, but got errors during the drive offset checks in `BlkWrite`.
+  - attempted fixing this using RAM drive for file downloads during LiveCD boot, but got errors during the drive offset checks in `BlkWrite`.
 * Regularly generate Lite and UltraLite ISOs.
 * Clean up AHCI code.
 * Clean up Networking code.
