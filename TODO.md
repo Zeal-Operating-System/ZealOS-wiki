@@ -2,7 +2,6 @@
 
 ## Simple
 * Review RFC 793, fix RST ACK loop spam. (Bug spotted using QEMU)
-* Fix Gopher client long filename truncation.
 * Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Move `docs/` to an organization root repo. (zeal-operating-system.github.io)
 * Optimize `RawPutChar`.
