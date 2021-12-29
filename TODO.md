@@ -7,7 +7,6 @@
 * Fix sky/horizon height in Varoom and ZoneOut.
 * Implement a `WinTileGrid`.
 * Reimplement TempleOS file decompression. (No compression.)
-* Implement `Ping` network function.
 
 ## Difficult
 * Get E1000 driver into functional state.
