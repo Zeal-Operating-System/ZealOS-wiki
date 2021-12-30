@@ -1,7 +1,6 @@
 # TODO
 
 ## Simple
-* Add a `Lex` demo: report `CCompCtrl` info iteratively as the user presses Spacebar to advance to the next token.
 * Move `docs/` to an organization root repo. (zeal-operating-system.github.io)
 * Optimize `RawPutChar`.
 * Fix sky/horizon height in Varoom and ZoneOut.
