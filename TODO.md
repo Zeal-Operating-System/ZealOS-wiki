@@ -4,7 +4,6 @@
 * Move `docs/` to an organization root repo. (zeal-operating-system.github.io)
 * Optimize `RawPutChar`.
 * Fix sky/horizon height in Varoom and ZoneOut.
-* Implement a `WinTileGrid`.
 * Reimplement TempleOS file decompression. (No compression.)
 
 ## Difficult
