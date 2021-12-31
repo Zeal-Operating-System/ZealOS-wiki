@@ -29,6 +29,7 @@ To see the full keybinding list, run `KeyMap;` in a terminal window.
 |Ctrl-G|Goto Line|
 |Alt-M|Maximize Window|
 |Alt-H|Horizontal Window Tiling|
+|Alt-G|Grid Window Tiling|
 |Alt-V|Vertical Window Tiling|
 |Ctrl-B|Window Border|
 |Ctrl-L|Text Menu|
