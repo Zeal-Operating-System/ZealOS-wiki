@@ -1,40 +1,62 @@
 # TODO
 
-## Simple
-* Move `docs/` to an organization root repo. (zeal-operating-system.github.io)
-* Optimize `RawPutChar`.
-* Fix sky/horizon height in Varoom and ZoneOut.
-* Reimplement TempleOS file decompression. (No compression.)
-
-## Difficult
+## Networking
 * Get E1000 driver into functional state.
-* Implement HTTP.
-* Implement network file transfer.
-* Improve MultiCore processor initialization process.
-* Fix `GRScreenCaptureWrite`, `GRScreenCaptureRead`, and `DCScreenCapture`.
-  - reference to `gr.screen_image` needs to be replaced
-* Fix MiniGrLib.
-* Add Extrude to 3D Sprite Mesh Editor.
-* Fix function local variable list declaration with initialization Compiler bug.
-* Fix partially-offscreen sprite flickering.
-* Fix Chess king vs. king stalemate softlock.
-* Fix how command line handles Insert mode.
-* Add right-click macro to `Dir` directory macros, similar to file right-click popup menu.
-* Add and port/rewrite Terry's HDAudio driver from supplemental disc, and alec's AC97 driver from Erythros.
-* Put ISO9660 and BMP file support back in.
-* Fix certain screen resolutions distorting.
-* Scale ToTheFront sprites and map to fit screen so sprites are more visible at high screen resolutions.
-* Make car tires in Varoom round, or implement sprite interpolation to make tires rotate.
-* Fix `ATAPIRBlks` bottleneck.
-* Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`. (Use MultiCore to distribute graphics computation?)
-* Fix bug where Pause/Break key scancode is converted to Ctrl-NumLock.
-* Implement SLOC `LineRep`.
-* Fix `Demo/AcctExample/` code.
+  - need to write an E1000Debug() method and analyze NIC state at TX.
+* Debug QEMU PCNet MAC.
+* Add STOR capability to FTP client.
 * Fix Gopher client functionality when booted from CD/DVD drive.
   - attempted fixing this using RAM drive for file downloads during LiveCD boot, but got errors during the drive offset checks in `BlkWrite`.
-* Regularly generate Lite and UltraLite ISOs.
-* Clean up AHCI code.
-* Clean up Networking code.
+* Write game demonstrating network client/server functionality.
 * Implement Networking loopback operation.
-* Clean up Compiler code, add more documentation.
+* Clean up Networking code.
+* Implement HTTP.
+
+## Kernel
+* Improve MultiCore processor initialization process.
+* Clean up AHCI code.
+* Optimize `RawPutChar`.
+* Put ISO9660 and BMP file support back in.
+* Add PNG support.
+* Fix certain screen resolutions distorting.
+* Fix `ATAPIRBlks` bottleneck.
+* Add ext2/ext3/ext4 filesystem support.
 * Clean up Kernel code, improve organization, remove bloat, add more documentation.
+
+## System
+* Update EdCodeTools for ZealC tab-convention.
+* Implement Ed "diff" feature to compare editor contents with the file stored on disk.
+* Add and port/rewrite Terry's HDAudio driver from supplemental disc, and alec's AC97 driver from Erythros.
+* Fix `GRScreenCaptureWrite`, `GRScreenCaptureRead`, and `DCScreenCapture`.
+  - reference to `gr.screen_image` needs to be replaced
+* Fix how command line handles Insert mode.
+* Add right-click macro to `Dir` directory macros, similar to file right-click popup menu.
+* Fix bug where Pause/Break key scancode is converted to Ctrl-NumLock.
+* Implement SLOC `LineRep`.
+* Reimplement TempleOS file decompression. (No compression.)
+* Add .ZXE Load option to file right-click popup menu.
+
+## Graphics
+* Add Extrude to 3D Sprite Mesh Editor.
+* Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`. (Use MultiCore to distribute graphics computation?)
+* Fix MiniGrLib.
+* Fix partially-offscreen sprite flickering.
+
+## Games/Demos
+* Add new icon to GrDir for .ZXE files.
+* Fix Chess king vs. king stalemate softlock.
+* Scale ToTheFront sprites and map to fit screen so sprites are more visible at high screen resolutions.
+* Make car tires in Varoom round, or implement sprite interpolation to make tires rotate.
+* Fix `Demo/AcctExample/` code.
+* Fix sky/horizon height in Varoom and ZoneOut.
+
+
+## Compiler
+* Add `U128` variable support using SSE registers.
+* Fix function local variable list declaration with initialization Compiler bug.
+* Clean up Compiler code, add more documentation.
+
+## Misc.
+* Fix docs empty page tab-title.
+* Move `docs/` to an organization root repo. (zeal-operating-system.github.io)
+* Regularly generate Lite and UltraLite ISOs.
