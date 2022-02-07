@@ -21,6 +21,7 @@
 * Fix certain screen resolutions distorting.
 * Fix `ATAPIRBlks` bottleneck.
 * Add ext2/ext3/ext4 filesystem support.
+* Add UEFI & GPT support.
 * Clean up Kernel code, improve organization, remove bloat, add more documentation.
 
 ## System
