@@ -36,6 +36,7 @@
 * Implement SLOC `LineRep`.
 * Reimplement TempleOS file decompression. (No compression.)
 * Add .ZXE Load option to file right-click popup menu.
+* Implement `TaskFlagsRep` or add flag details to `TaskRep`, perhaps using a new `verbose` bool default arg?
 
 ## Graphics
 * Add Extrude to 3D Sprite Mesh Editor.
