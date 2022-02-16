@@ -37,7 +37,7 @@
 * Reimplement TempleOS file decompression. (No compression.)
 * Add .ZXE Load option to file right-click popup menu.
 * Implement `TaskFlagsRep` or add flag details to `TaskRep`, perhaps using a new `verbose` bool default arg?
-
+* Improve mouse-only support. (e.g. currently can close AutoComplete window with mouse, but no way to relaunch it with just mouse)
 ## Graphics
 * Add Extrude to 3D Sprite Mesh Editor.
 * Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`. (Use MultiCore to distribute graphics computation?)
