@@ -56,6 +56,7 @@
 
 ## Compiler
 * Add `U128` variable support using SSE registers.
+* Make `PassTrace` output more human-readable.
 * Fix function local variable list declaration with initialization Compiler bug.
 * Clean up Compiler code, add more documentation.
 
