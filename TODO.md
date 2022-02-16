@@ -61,6 +61,7 @@
 
 ## Misc.
 * Fix docs empty page tab-title.
+* Fix Boot doc sprite text.
 * Add HolyMath Tests to TestSuite.
 * Move `docs/` to an organization root repo. (zeal-operating-system.github.io)
 * Regularly generate Lite and UltraLite ISOs.
