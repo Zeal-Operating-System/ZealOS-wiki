@@ -62,7 +62,6 @@
 * Clean up Compiler code, add more documentation.
 
 ## Misc.
-* Fix docs empty page tab-title.
 * Fix Boot doc sprite text.
 * Add HolyMath Tests to TestSuite.
 * Regularly generate Lite and UltraLite ISOs.
