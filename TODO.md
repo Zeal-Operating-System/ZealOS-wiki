@@ -9,6 +9,7 @@
   - attempted fixing this using RAM drive for file downloads during LiveCD boot, but got errors during the drive offset checks in `BlkWrite`.
 * Write game demonstrating network client/server functionality.
 * Implement Networking loopback operation.
+* Reformat/remove VirtIO driver.
 * Clean up Networking code.
 * Implement HTTP.
 
