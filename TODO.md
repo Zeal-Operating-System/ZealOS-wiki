@@ -46,7 +46,6 @@
 * Fix partially-offscreen sprite flickering.
 
 ## Games/Demos
-* Add new icon to GrDir for .ZXE files.
 * Fix Chess king vs. king stalemate softlock.
 * Scale ToTheFront sprites and map to fit screen so sprites are more visible at high screen resolutions.
 * Add mouse aim to CastleFrankenstein.
