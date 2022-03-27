@@ -38,7 +38,7 @@
 * Reimplement TempleOS file decompression. (No compression.)
 * Add .ZXE Load option to file right-click popup menu.
 * Implement `TaskFlagsRep` or add flag details to `TaskRep`, perhaps using a new `verbose` bool default arg?
-* Improve mouse-only support. (e.g. currently can close AutoComplete window with mouse, but no way to relaunch it with just mouse)
+* Improve mouse-only support.
 ## Graphics
 * Add Extrude to 3D Sprite Mesh Editor.
 * Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`. (Use MultiCore to distribute graphics computation?)
@@ -60,6 +60,7 @@
   - make new branch (`u128-hacks`?), add & implement `U128i` then `U128`, ...
 * Make `PassTrace` output more human-readable.
 * Fix function local variable list declaration with initialization Compiler bug.
+  - must be declared static...
 * Clean up Compiler code, add more documentation.
 
 ## Misc.
