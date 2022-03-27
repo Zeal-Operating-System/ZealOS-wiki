@@ -36,9 +36,9 @@
 * Fix bug where Pause/Break key scancode is converted to Ctrl-NumLock.
 * Implement SLOC `LineRep`.
 * Reimplement TempleOS file decompression. (No compression.)
-* Add .ZXE Load option to file right-click popup menu.
 * Implement `TaskFlagsRep` or add flag details to `TaskRep`, perhaps using a new `verbose` bool default arg?
 * Improve mouse-only support.
+
 ## Graphics
 * Add Extrude to 3D Sprite Mesh Editor.
 * Optimize `GrZoomInScreen`, `GrCalcScreenUpdates`, `GrUpdateScreen32`, and `GrUpdateScreen`. (Use MultiCore to distribute graphics computation?)
@@ -52,7 +52,6 @@
 * Make car tires in Varoom round, or implement sprite interpolation to make tires rotate.
 * Fix `Demo/AcctExample/` code.
 * Fix sky/horizon height in Varoom and ZoneOut.
-
 
 ## Compiler
 * Add `U128` variable support using SSE registers. (branch: u128-compiler)
