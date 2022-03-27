@@ -56,8 +56,8 @@
 
 
 ## Compiler
-* Add `U128` variable support using SSE registers.
-  - make new branch (`u128-hacks`?), add & implement `U128i` then `U128`, ...
+* Add `U128` variable support using SSE registers. (branch: u128-compiler)
+  - work out how to add in `ST_XMM_REGS` usage, consider how `ST_U64_REGS` is used
 * Make `PassTrace` output more human-readable.
 * Fix function local variable list declaration with initialization Compiler bug.
   - must be declared static...
