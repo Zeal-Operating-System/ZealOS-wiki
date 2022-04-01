@@ -8,7 +8,7 @@
 |Drive Type|Drive Letters|
 |:-:|:-:|
 |RAM|A B|
-|ATA HDD|C D E F G H I J K L|
+|SATA HDD|C D E F G H I J K L|
 |ISO File-Read Drive|M N O P|
 |ISO File-Write Drive|Q R S|
 |ATAPI CD/DVD|T U V W X Y Z|
