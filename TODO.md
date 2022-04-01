@@ -36,7 +36,6 @@
 * Fix bug where Pause/Break key scancode is converted to Ctrl-NumLock.
 * Implement SLOC `LineRep`.
 * Reimplement TempleOS file decompression. (No compression.)
-* Implement `TaskFlagsRep` or add flag details to `TaskRep`, perhaps using a new `verbose` bool default arg?
 * Improve mouse-only support.
 
 ## Graphics
