@@ -1,7 +1,6 @@
 # TODO
 
 ## Networking
-* Debug QEMU PCNet MAC.
 * Add STOR capability to FTP client.
 * Fix Gopher client functionality when booted from CD/DVD drive.
   - attempted fixing this using RAM drive for file downloads during LiveCD boot, but got errors during the drive offset checks in `BlkWrite`.
