@@ -1,18 +1,5 @@
 # TODO
 
-
-## Kernel
-* Improve MultiCore processor initialization process.
-* Clean up AHCI code.
-* Optimize `RawPutChar`.
-* Put ISO9660 and BMP file support back in.
-* Add PNG support.
-* Fix certain screen resolutions distorting.
-* Fix `ATAPIRBlks` bottleneck.
-* Add ext2/ext3/ext4 filesystem support.
-* Add UEFI & GPT support.
-* Clean up Kernel code, improve organization, remove bloat, add more documentation.
-
 ## System
 * Update EdCodeTools for ZealC tab-convention.
 * Implement Ed "diff" feature to compare editor contents with the file stored on disk.
