@@ -1,8 +1,6 @@
 # TODO
 
 ## Networking
-* Get E1000 driver into functional state.
-  - need to write an E1000Debug() method and analyze NIC state at TX.
 * Debug QEMU PCNet MAC.
 * Add STOR capability to FTP client.
 * Fix Gopher client functionality when booted from CD/DVD drive.
