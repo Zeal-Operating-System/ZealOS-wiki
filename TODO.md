@@ -1,8 +1,6 @@
 # TODO
 
 ## Networking
-* Fix Gopher client functionality when booted from CD/DVD drive.
-  - attempted fixing this using RAM drive for file downloads during LiveCD boot, but got errors during the drive offset checks in `BlkWrite`.
 * Write game demonstrating network client/server functionality.
 * Implement Networking loopback operation.
 * Reformat/remove VirtIO driver.
