@@ -1,11 +1,5 @@
 # TODO
 
-## Networking
-* Write game demonstrating network client/server functionality.
-* Implement Networking loopback operation.
-* Reformat/remove VirtIO driver.
-* Clean up Networking code.
-* Implement HTTP.
 
 ## Kernel
 * Improve MultiCore processor initialization process.
