@@ -34,7 +34,6 @@ Mounting the C drive is usually the bare minimum. The mount process varies depen
 * ISO File-Write Drive:
   1. Type the number of 512 byte blocks you want the drive to have, then press Enter.
 
-4. When prompted to pick a screen resolution: type the mode number or width of the desired video mode, then press Enter. (If you type the width, you must also specify the height.)
-5. When prompted for Disk Cache Size, type the number of bytes you want to use as cache, or press Enter to use the default cache size.
-6. Either press Enter when asked for Kernel Options to leave defaults, or type the name of a desired option to set and configure it.
-7. Reboot.
+4. When prompted for Disk Cache Size, type the number of bytes you want to use as cache, or press Enter to use the default cache size.
+5. Either press Enter when asked for Kernel Options to leave defaults, or type the name of a desired option to set and configure it.
+6. Reboot.
