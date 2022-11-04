@@ -9,7 +9,7 @@
 
 If you do not have these commands and are on a Ubuntu-based distro, try installing these packages:
 
-`sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod xorriso sed coreutils`
+`sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod xorriso sed coreutils git`
 
 2. Run `build-iso.sh`.
 
