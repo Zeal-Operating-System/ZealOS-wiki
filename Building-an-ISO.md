@@ -5,11 +5,11 @@
 4. Run `build-iso.ps1`.
 
 # Instructions (Linux)
-1. Make sure you have the commands: `qemu-img`, `qemu-nbd`, `qemu-system-x86_64`, `partprobe`, `modprobe`, `sed`, `wc`, `xorriso`, and `git`.
+1. Make sure you have the commands: `qemu-img`, `qemu-nbd`, `qemu-system-x86_64`, `partprobe`, `modprobe`, `sed`, `wc`, `xorriso`, `git`, `make`, `curl`, and `cc`.
 
 If you do not have these commands and are on a Ubuntu-based distro, try installing these packages:
 
-`sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod xorriso sed coreutils git`
+`sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod xorriso sed coreutils git make curl build-essential gcc`
 
 2. Run `build-iso.sh`.
 
