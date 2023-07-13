@@ -10,7 +10,7 @@
 Here are commands to install these packages on various distros:
   * Ubuntu
 ```
-sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod xorriso sed coreutils git make curl build-essential gcc
+sudo apt install qemu-utils qemu-system-x86 qemu-system-gui parted kmod xorriso sed coreutils git make curl build-essential gcc
 ```
   * Fedora
 ```
