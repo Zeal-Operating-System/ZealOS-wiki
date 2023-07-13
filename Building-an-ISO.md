@@ -7,9 +7,15 @@
 # Instructions (Linux)
 1. Make sure you have the commands: `qemu-img`, `qemu-nbd`, `qemu-system-x86_64`, `partprobe`, `modprobe`, `sed`, `wc`, `xorriso`, `git`, `make`, `curl`, and `cc`.
 
-If you do not have these commands and are on a Ubuntu-based distro, try installing these packages:
-
-`sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod xorriso sed coreutils git make curl build-essential gcc`
+Here are commands to install these packages on various distros:
+  * Ubuntu
+```
+sudo apt install qemu-utils qemu-system-x86 qemu-system-common qemu-system-data qemu-system-gui parted kmod xorriso sed coreutils git make curl build-essential gcc
+```
+  * Fedora
+```
+sudo dnf install qemu-img qemu-system-x86 parted kmod sed coreutils xorriso git make curl gcc
+```
 
 2. Run `build-iso.sh`.
 
