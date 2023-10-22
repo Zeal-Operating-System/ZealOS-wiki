@@ -3,7 +3,8 @@
 ## Links:
 
 ### Social
-- [ZealOS Lemmy community](https://lemmy.world/c/zealos) 
+- [ZealOS Lemmy community](https://lemmy.world/c/zealos)
+- [ZealOS Discord server](https://discord.gg/rK6U3xdr7D)
 
 ### Tools
 - [C-like code reindenter/beautifier](https://techiedelight.com/tools/clike)
