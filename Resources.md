@@ -65,7 +65,8 @@
 - PCI Local Bus Specification, revision 3.0
 	- https://www.cl.cam.ac.uk/~djm202/pdf/specifications/pci/PCI_LB3.0_CB-2-6-04.pdf
 
-
+- ZealOS Lemmy community
+	- https://lemmy.world/c/zealos
 - https://git.xslendi.xyz/slendi/HolyParser slendi's HolyC+ASM lexer, parser
 - https://github.com/eb-lan/TINE TempleOS host-machine userspace software
 - https://github.com/JeffIrwin/temple-viewer TOS 3D .STL model viewer
@@ -92,5 +93,3 @@
 - https://mega.nz/folder/ZIEGmSRQ#qvL6Wk6THzE-dazkfT6N3Q/folder/9BFUTZYI
 - https://github.com/tinkeros/Alec_stuff_backup
 - https://web.archive.org/web/*/https://git.checksum.fail/* (filter by .zip or .bundle) 
-
-ZealOS Lemmy community: https://lemmy.world/c/zealos
