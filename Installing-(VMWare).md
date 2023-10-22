@@ -1,3 +1,5 @@
+# Installing (VMWare)
+
 1. Create a new virtual machine.
   * Select **Use ISO image** and assign it the ZealOS ISO when asked where you'll install the operating system from.
   * Guest OS Type: **Other**, VM Version: **Other 64-bit**.
