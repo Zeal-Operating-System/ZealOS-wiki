@@ -13,3 +13,4 @@ The Zeal Operating System is a modernized, professional fork of the 64-bit Templ
 - [Installing (VMWare)](https://zeal-operating-system.github.io/ZealOS-wiki/Installing-(VMWare))
 - [Kernel Recompiling](https://zeal-operating-system.github.io/ZealOS-wiki/Kernel-Recompiling)
 - [Keybindings](https://zeal-operating-system.github.io/ZealOS-wiki/Keybindings)
+- [Resources](https://zeal-operating-system.github.io/ZealOS-wiki/Resources)
