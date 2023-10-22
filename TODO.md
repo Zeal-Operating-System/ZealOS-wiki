@@ -2,9 +2,9 @@
 
 ## ZealOS 2.04 Release TODOs
 
-- [ ] GPT partition demo in `gpt` branch
+- [ ] GPT partition demo; merge to master ([branch: gpt](https://github.com/Zeal-Operating-System/ZealOS/tree/gpt))
 - [ ] currently-active 8x8 font choice program
-- [ ] upstream/merge wallpaper bootcode code into master branch
+- [ ] upstream/merge wallpaper bootcode code into master branch ([branch: gfx-wp-fun](https://github.com/Zeal-Operating-System/ZealOS/tree/gfx-wp-fun))
 - [ ] make resolution change app/demo, add to PersonalMenu
 - [ ] add Usage.ZC to PersonalMenu
 - [ ] fix 1366x768 and weird-pitch graphical issues ([#28](https://github.com/Zeal-Operating-System/ZealOS/issues/28), [branch: gfx-wp-fun](https://github.com/Zeal-Operating-System/ZealOS/tree/gfx-wp-fun))
@@ -12,7 +12,7 @@
 - [ ] make zealbooter pause briefly
 - [ ] reformat and merge GodDoodle PR ([#109](https://github.com/Zeal-Operating-System/ZealOS/pull/109))
 - [ ] add publicdomain raster C fonts and zealbooter printing back
-- [ ] cleanup and merge loopback, close PR
+- [ ] cleanup and merge loopback, close PR ([#67](https://github.com/Zeal-Operating-System/ZealOS/pull/67))
 - [ ] ZXERep function custom sort algorithm for patch table offset strings & byteoffsets, to approximate boundaries between different regions of machine code that represent different things
 - [ ] cleanup FTPClient GUI, split the two network-tied text outputs into two distinct windows
 - [ ] improve PassTrace output ([#48](https://github.com/Zeal-Operating-System/ZealOS/issues/48))
@@ -26,6 +26,6 @@
 - [ ] slow down marquee text speed slightly
 - [ ] verify all emulators have PD ROM files + folder set up
 ### QOL/nice-to-have
-- [ ] ToTheFront scaling [#43](https://github.com/Zeal-Operating-System/ZealOS/issues/43)
+- [ ] ToTheFront scaling ([#43](https://github.com/Zeal-Operating-System/ZealOS/issues/43))
 - [ ] Logic Simulator rewrite
 - [ ] color codes on early pre-text boot stage(s)
