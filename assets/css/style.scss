@@ -3,9 +3,16 @@
 
 @import "{{ site.theme }}";
 
-body
+body, td, tr
 {
   background-color: #1f1f1f;
+  color: #e3e3e3;
+}
+
+
+th
+{
+  background-color: #444444;
   color: #e3e3e3;
 }
 
