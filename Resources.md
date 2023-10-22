@@ -71,7 +71,7 @@
 
 (in the screenshot, example-user is making a PR to master from branch example-pr-branch-name, this username and this branch name are used in the second step's command)
 
-1. Step 1: From your project repository, check out a new branch 
+1. From your project repository, check out a new branch 
 	- git checkout -b name-of-new-local-branch-here master
 2. Pull the changes from example-user's PR branch example-pr-branch-name into the new created local branch
 	- git pull https://github.com/example-user/ZealOS.git example-pr-branch-name 
