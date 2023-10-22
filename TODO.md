@@ -4,7 +4,7 @@
 
 - [ ] GPT partition demo in `gpt` branch
 - [ ] currently-active 8x8 font choice program
-- [ ] upstream/merge wallpaper bootcode code into master branchc
+- [ ] upstream/merge wallpaper bootcode code into master branch
 - [ ] make resolution change app/demo, add to PersonalMenu
 - [ ] add Usage.ZC to PersonalMenu
 - [ ] fix 1366x768 and weird-pitch graphical issues (there might be a GH Issue for this already)
