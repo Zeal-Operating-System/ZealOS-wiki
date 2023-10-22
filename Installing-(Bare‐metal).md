@@ -15,5 +15,5 @@ It is recommended to partition the hard drive in advance, using another operatin
 10. Type either `Y` or `N` when asked if you want to format the drive.
 11. Select filesystem type, either FAT32 or RedSea.
 12. Select screen resolution.
-13. If you type `Y` when asked to install a master boot loader, the drive's master boot loader is replaced with the ZealOS bootloader. If using a different bootloader like Grub, type `N`, and after installation [reconfigure your bootloader to show ZealOS as a boot option](https://github.com/Zeal-Operating-System/ZealOS/wiki/Booting-with-Grub).
+13. If you type `Y` when asked to install a master boot loader, the drive's master boot loader is replaced with the ZealOS bootloader. If using a different bootloader like Grub, type `N`, and after installation [reconfigure your bootloader to show ZealOS as a boot option](Booting-with-Grub).
 14. After installation is complete, type `Y` to reboot. The disc will auto-eject.
