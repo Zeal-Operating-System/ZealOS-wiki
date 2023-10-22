@@ -1,3 +1,5 @@
+# Changing Screen Resolution
+
 After the OS is booted, you can run `VideoRep;` at the command line to retrieve a list of screen resolutions supported by your target hardware/VM. By default, ZealOS uses the standard resolution of 1024x768, however any of the resolutions listed can be used as a screen resolution for ZealOS.
 
 If you are using the Limine bootloader, you need to modify `/Boot/Limine.CFG` and change the value in the `RESOLUTION` field. (Note that `INTERFACE_RESOLUTION` only affects the resolution of the Limine bootloader itself, the `RESOLUTION` value applies to the OS.)
