@@ -1,3 +1,5 @@
+# Installing (QEMU)
+
 1. Create a new virtual machine hard disk drive.
   ```
 qemu-img create -f qcow2 ZealOS.qcow2 1G
