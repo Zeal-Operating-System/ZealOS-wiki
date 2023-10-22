@@ -26,6 +26,6 @@
 - [ ] slow down marquee text speed slightly
 - [ ] verify all emulators have PD ROM files + folder set up
 ### QOL/nice-to-have
-- [ ] ToTheFront scaling
+- [ ] ToTheFront scaling [#43](https://github.com/Zeal-Operating-System/ZealOS/issues/43)
 - [ ] Logic Simulator rewrite
 - [ ] color codes on early pre-text boot stage(s)
