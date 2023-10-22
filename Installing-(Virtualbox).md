@@ -1,3 +1,5 @@
+# Installing (Virtualbox)
+
 1. Create a new virtual machine.
   * VM Type: **Other**, VM Version: **Other/Unknown (64-bit)**.
   * RAM: **1GB or more** recommended. At least **512MB**.
