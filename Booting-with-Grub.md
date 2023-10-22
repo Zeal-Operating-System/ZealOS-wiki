@@ -1,3 +1,5 @@
+# Booting with Grub
+
 For each ZealOS partition, add lines to `/etc/grub.d/40_custom` in this format:
 ```
 menuentry "ZealOS" {
