@@ -2,6 +2,8 @@ Welcome to the ZealOS wiki!
 
 The Zeal Operating System is a modernized fork of the 64-bit Temple Operating System. Guiding principles of development include transparency, full user control, and adherence to public-domain/open-source implementations.
 
+## Pages:
+
 - [Booting with Grub](Booting-with-Grub)
 - [Building an ISO](Building-an-ISO)
 - [Changing Screen Resolution](Changing-Screen-Resolution)
@@ -15,3 +17,7 @@ The Zeal Operating System is a modernized fork of the 64-bit Temple Operating Sy
 - [Keybindings](Keybindings)
 - [Resources](Resources)
 - [TODO](TODO)
+
+## HTML ZealOS Code/Filesystem Browser
+
+- [zeal-operating-system.github.io](https://zeal-operating-system.github.io/)
