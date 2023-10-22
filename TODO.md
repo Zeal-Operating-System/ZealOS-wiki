@@ -25,7 +25,11 @@
 - [ ] update dead gopher links to something
 - [ ] slow down marquee text speed slightly
 - [ ] verify all emulators have PD ROM files + folder set up
-### QOL/nice-to-have
+### QOL/nice-to-haves
 - [ ] ToTheFront scaling ([#43](https://github.com/Zeal-Operating-System/ZealOS/issues/43))
 - [ ] Logic Simulator rewrite
 - [ ] color codes on early pre-text boot stage(s)
+
+## Wiki TODOs
+
+- [ ] transfer paragraphs/pictures/links from Discord server into dedicated wiki pages
