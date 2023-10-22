@@ -80,6 +80,6 @@
 
 ## alec software backups:
 
-- https://mega.nz/folder/ZIEGmSRQ#qvL6Wk6THzE-dazkfT6N3Q/folder/9BFUTZYI
-- https://github.com/tinkeros/Alec_stuff_backup
-- https://web.archive.org/web/*/https://git.checksum.fail/* (filter by .zip or .bundle) 
+- [mega.nz backup](https://mega.nz/folder/ZIEGmSRQ#qvL6Wk6THzE-dazkfT6N3Q/folder/9BFUTZYI)
+- [github.com/tinkeros/Alec_stuff_backup](https://github.com/tinkeros/Alec_stuff_backup)
+- [web.archive.org git.checksum.fail archives, filter by .zip or .bundle](https://web.archive.org/web/*/https://git.checksum.fail/*)
