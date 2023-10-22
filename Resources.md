@@ -5,11 +5,27 @@
 ### Social
 - [ZealOS Lemmy community](https://lemmy.world/c/zealos) 
 
+### Tools
+- [C-like code reindenter/beautifier](https://techiedelight.com/tools/clike)
+- [x86(-64) assembler/disassembler](https://defuse.ca/online-x86-assembler.htm#disassembly) 
+- [Denigma AI-powered code analyzer tool](https://www.denigma.app/#demo)
+
+### VMs/TempleOS/ZealOS-specific
+- [How to Set Extra Screen Resolutions in Virtualbox VMs](https://winaero.com/set-exact-display-resolution-in-virtualbox-virtual-machine/) 
+	- VBoxManage setextradata "VM-Name" "CustomVideoMode#" "#x#x32"
+- [TempleOS binary patch table parser written in Java using ghidra](https://github.com/aarzilli/templestuff/blob/master/TempleOS.java) 
+- [TempleOS .BIN format guide from minexew](https://minexew.github.io/2020/03/29/templeos-loader-part2.html) 
+- [alec VBoxGuest.HC](https://checksum.fail/files/VBoxGuest.HC) 
+- [slendi's HolyC+ASM lexer, parser](https://git.xslendi.xyz/slendi/HolyParser) 
+- [TempleOS host-machine userspace software](https://github.com/eb-lan/TINE)  
+- [TOS 3D .STL model viewer](https://github.com/JeffIrwin/temple-viewer)  
+- [TOS .TOML parsing](https://github.com/tinkeros/BETTR)  
+- [TOS themes](https://github.com/bramtechs/TempleRicer)  
+
 ### x86-64/BIOS/UEFI
 - [Interrupt List](http://www.ctyme.com/rbrown.htm)
 - [AMD64 Architecture Programmer's Manual Volumes 1-5](https://www.amd.com/system/files/TechDocs/40332.pdf) 
 - [PCIExpress Base 3.0](http://akkit.org/info/PCI_Express_Base_r3.0_10Nov10.pdf) 
-- [x86(-64) assembler/disassembler](https://defuse.ca/online-x86-assembler.htm#disassembly) 
 - [Intel 64 & IA-32 Architectures Software Developer's Manual](https://www.intel.com/content/dam/www/public/us/en/documents/manuals/64-ia-32-architectures-software-developer-instruction-set-reference-manual-325383.pdf) 
 - [SSE SIMD practical guide](http://sci.tuomastonteri.fi/programming/sse) 
 - [x86-64 reference manual coder64](http://ref.x86asm.net/coder64.html) 
@@ -34,9 +50,6 @@
 - [E1000 driver source from linux](https://github.com/torvalds/linux/tree/master/drivers/net/ethernet/intel/e1000) 
 - [e1000 driver source from minix](https://github.com/Stichting-MINIX-Research-Foundation/minix/tree/4db99f4012570a577414fe2a43697b2f239b699e/minix/drivers/net/e1000) 
 
-### Tools
-- [C-like code reindenter/beautifier](https://techiedelight.com/tools/clike) 
-
 ### Software
 - [C program test suite for testing lexers/parsers/compilers against](https://github.com/c-testsuite/c-testsuite/tree/master/tests/single-exec) 
 - [Public Domain C Library](https://github.com/DevSolar/pdclib) 
@@ -46,21 +59,8 @@
 - [How to get your open source changes merged](https://atkinssj.github.io/How-to-PR/ ) 
 - [Assembly Introduction from tutorialspoint](https://www.tutorialspoint.com/assembly_programming/assembly_introduction.htm) 
 
-### VMs/TempleOS/ZealOS-specific
-- [How to Set Extra Screen Resolutions in Virtualbox VMs](https://winaero.com/set-exact-display-resolution-in-virtualbox-virtual-machine/) 
-	- VBoxManage setextradata "VM-Name" "CustomVideoMode#" "#x#x32"
-- [TempleOS binary patch table parser written in Java using ghidra](https://github.com/aarzilli/templestuff/blob/master/TempleOS.java) 
-- [TempleOS .BIN format guide from minexew](https://minexew.github.io/2020/03/29/templeos-loader-part2.html) 
-- [alec VBoxGuest.HC](https://checksum.fail/files/VBoxGuest.HC) 
-- [slendi's HolyC+ASM lexer, parser](https://git.xslendi.xyz/slendi/HolyParser) 
-- [TempleOS host-machine userspace software](https://github.com/eb-lan/TINE)  
-- [TOS 3D .STL model viewer](https://github.com/JeffIrwin/temple-viewer)  
-- [TOS .TOML parsing](https://github.com/tinkeros/BETTR)  
-- [TOS themes](https://github.com/bramtechs/TempleRicer)  
-
 ### Other
 - [Useful pdfs](https://github.com/tpn/pdfs) 
-- [Denigma AI-powered code analyzer tool](https://www.denigma.app/#demo) 
 - [Game Math Book](https://gamemath.com/book/) 
 
 ---
