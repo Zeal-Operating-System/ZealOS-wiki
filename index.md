@@ -4,6 +4,7 @@ The Zeal Operating System is a modernized fork of the 64-bit Temple Operating Sy
 
 ## Pages:
 
+- [FAQ](FAQ)
 - [Booting with Grub](Booting-with-Grub)
 - [Building an ISO](Building-an-ISO)
 - [Changing Screen Resolution](Changing-Screen-Resolution)
