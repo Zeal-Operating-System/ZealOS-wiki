@@ -10,7 +10,7 @@
 - [ ] fix 1366x768 and weird-pitch graphical issues ([#28](https://github.com/Zeal-Operating-System/ZealOS/issues/28), [branch: gfx-wp-fun](https://github.com/Zeal-Operating-System/ZealOS/tree/gfx-wp-fun))
 - [ ] add Zoom In / Zoom Out to top-bar pulldown menu
 - [ ] make zealbooter pause briefly
-- [ ] reformat and merge GodDoodle PR ([#109](https://github.com/Zeal-Operating-System/ZealOS/pull/109))
+- [X] reformat and merge GodDoodle PR ([#109](https://github.com/Zeal-Operating-System/ZealOS/pull/109))
 - [ ] add publicdomain raster C fonts and zealbooter printing back
 - [ ] cleanup and merge loopback, close PR ([#67](https://github.com/Zeal-Operating-System/ZealOS/pull/67))
 - [ ] ZXERep function custom sort algorithm for patch table offset strings & byteoffsets, to approximate boundaries between different regions of machine code that represent different things
