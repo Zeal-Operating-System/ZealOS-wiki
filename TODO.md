@@ -6,7 +6,7 @@
 - [ ] currently-active 8x8 font choice program
 - [X] upstream/merge wallpaper bootcode code into master branch ([branch: topbarcode](https://github.com/Zeal-Operating-System/ZealOS/tree/topbarcode))
 - [ ] make resolution change app/demo, add to PersonalMenu
-- [ ] add Usage.ZC to PersonalMenu
+- [X] add Usage.ZC to PersonalMenu ([#133](https://github.com/Zeal-Operating-System/ZealOS/pull/133))
 - [ ] fix 1366x768 and weird-pitch graphical issues ([#28](https://github.com/Zeal-Operating-System/ZealOS/issues/28), [branch: gfx-wp-fun](https://github.com/Zeal-Operating-System/ZealOS/tree/gfx-wp-fun))
 - [ ] add Zoom In / Zoom Out to top-bar pulldown menu
 - [ ] make zealbooter pause briefly
