@@ -17,7 +17,7 @@
 - [ ] cleanup FTPClient GUI, split the two network-tied text outputs into two distinct windows
 - [ ] improve PassTrace output ([#48](https://github.com/Zeal-Operating-System/ZealOS/issues/48))
 - [ ] zealbooter / PD verify existence of 1024x768 before choosing&booting
-- [ ] add bans to encryption & wireless transmitting/receiving into the Charter
+- [X] add bans to encryption & wireless transmitting/receiving into the Charter
 - [ ] FTP STOR ([#20](https://github.com/Zeal-Operating-System/ZealOS/issues/20))
 - [ ] FTP host <--> VM FTP server setup documentation
 - [ ] Gopher Client LiveCD fix ([#21](https://github.com/Zeal-Operating-System/ZealOS/issues/21))
