@@ -26,6 +26,7 @@
 - [ ] slow down marquee text speed slightly
 - [ ] verify all emulators have PD ROM files + folder set up
 ### QOL/nice-to-haves
+- [ ] benchmark (wrapper) program to benchmark CPU speed, RAM throughput, HDD/SSD R/W speed, profiler-report, etc.
 - [ ] ToTheFront scaling ([#43](https://github.com/Zeal-Operating-System/ZealOS/issues/43))
 - [ ] Logic Simulator rewrite
 - [ ] color codes on early pre-text boot stage(s)
