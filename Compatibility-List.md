@@ -1,6 +1,6 @@
 # ZealOS Bare-Metal Compatibility List
 
-Below is a list of hardware that has been tested bare-metal with ZealOS. If you boot ZealOS bare-metal on a PC, make a new Issue containing your motherboard and BIOS information. If booting on a laptop, just include the model of the laptop. Describe system functionality and mention adding to the wiki compatibility list, so it's clear what the Issue is for.
+Below is a list of hardware that has been tested bare-metal with ZealOS. If you boot ZealOS bare-metal on a PC, make a PR to [this Wiki page](https://github.com/Zeal-Operating-System/ZealOS-wiki/blob/master/Compatibility-List.md) and add info about your motherboard and BIOS information. If booting on a laptop, just include the model of the laptop. 
 
 ## Fully-functional
 ### Laptops
