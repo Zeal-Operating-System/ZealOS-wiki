@@ -16,7 +16,7 @@
 - [ ] make zealbooter pause briefly
 - [X] reformat and merge GodDoodle PR ([#109](https://github.com/Zeal-Operating-System/ZealOS/pull/109))
 - [ ] add publicdomain raster C fonts and zealbooter printing back
-- [ ] cleanup and merge loopback, close PR ([#67](https://github.com/Zeal-Operating-System/ZealOS/pull/67))
+- [X] cleanup and merge loopback, close PR ([#67](https://github.com/Zeal-Operating-System/ZealOS/pull/67))
 - [ ] ZXERep function custom sort algorithm for patch table offset strings & byteoffsets, to approximate boundaries between different regions of machine code that represent different things
 - [ ] cleanup FTPClient GUI, split the two network-tied text outputs into two distinct windows
 - [ ] improve PassTrace output ([#48](https://github.com/Zeal-Operating-System/ZealOS/issues/48))
