@@ -1,5 +1,9 @@
 # General Dev/User TODO Notes
 
+## Wiki TODOs
+
+- [ ] transfer paragraphs/pictures/links from Discord server into dedicated wiki pages
+
 ## ZealOS 2.04 Release TODOs
 
 - [ ] GPT partition demo; merge to master ([branch: gpt](https://github.com/Zeal-Operating-System/ZealOS/tree/gpt))
@@ -25,17 +29,17 @@
 - [ ] update dead gopher links to something
 - [ ] slow down marquee text speed slightly
 - [ ] verify all emulators have PD ROM files + folder set up
+
 ### QOL/nice-to-haves
+
 - [ ] benchmark (wrapper) program to benchmark CPU speed, RAM throughput, HDD/SSD R/W speed, profiler-report, etc.
 - [ ] ToTheFront scaling ([#43](https://github.com/Zeal-Operating-System/ZealOS/issues/43))
 - [ ] Logic Simulator rewrite
 - [ ] color codes on early pre-text boot stage(s)
-
-## Wiki TODOs
-
-- [ ] transfer paragraphs/pictures/links from Discord server into dedicated wiki pages
-
+- [ ] put link back to [ZealOS-wiki](https://zeal-operating-system.github.io/ZealOS-wiki/) on index page of [ZealOS HTML filesystem browser](https://github.com/Zeal-Operating-System/zeal-operating-system.github.io)
 
 ## ZealOS 2.05 Release TODOs
+
 ### QOL/nice-to-haves
+
 - [ ] VNC client (RFB protocol over TCP/IP w/ VNC client-server connection)
