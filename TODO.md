@@ -34,3 +34,8 @@
 ## Wiki TODOs
 
 - [ ] transfer paragraphs/pictures/links from Discord server into dedicated wiki pages
+
+
+## ZealOS 2.05 Release TODOs
+### QOL/nice-to-haves
+- [ ] VNC client (RFB protocol over TCP/IP w/ VNC client-server connection)
